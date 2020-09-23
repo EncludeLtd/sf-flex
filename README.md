@@ -1,6 +1,9 @@
 # sf-flex
 A demo of how to make requests to the Salesforce REST API from Twilio Flex
 
+* [REST Endpoint Code](/sf-lookup.js)
+* [Calling Endpoint from a Plugin](/DemoPlugin.js)
+
 ## Create the REST Endpoint
 ![Twilio Function](/twilio-function.png)
 

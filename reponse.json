@@ -1,4 +1,5 @@
 {
+  "baseUrl": "https://foodclosb1--foodclosb1.lightning.force.com",
   "total": 5,
   "records": {
     "Account": [
@@ -9,6 +10,7 @@
         },
         "Name": "Enclude",
         "Phone": "+353838878035",
+        "Membership_Type__c": "FoodCloud Plus",
         "External_Id__c": "FC:0013O00000JuxfP",
         "BillingAddress": {
           "city": "Drumcondra",

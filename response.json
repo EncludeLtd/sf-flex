@@ -23,7 +23,7 @@
           "street": "Drumcondra Business Centre, 120 Drumcondra Rd Upper"
         },
         "Bonus_Donation_Type__c": "ScheduledBonusThenOpenBonus",
-        "Accept_Chill__c": "true",
+        "Accept_Chill__c": "yes",
         "Retail__c": true,
         "Hard_Allocation__c": true,
         "FoodCloud_Plus__c": true,
@@ -116,6 +116,8 @@
         "Phone": "+353838878035",
         "MobilePhone": "+353838878035",
         "Email": "brandon.dematteis@enclude.ie",
+        "AccountId": "0013O00000JuxfPQAR",
+        "Primary_Affiliation_Role__c": "Consultant",
         "Id": "0033O00000KKRXeQAP",
         "Cases": {
           "totalSize": 1,
@@ -167,6 +169,14 @@
               }
             }
           ]
+        },
+        "Account": {
+          "attributes": {
+            "type": "Account",
+            "url": "/services/data/v50.0/sobjects/Account/0013O00000JuxfPQAR"
+          },
+          "Id": "0013O00000JuxfPQAR",
+          "Name": "Enclude"
         }
       }
     ],

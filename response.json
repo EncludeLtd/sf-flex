@@ -90,7 +90,9 @@
         },
         "Name": "Robert Norton",
         "MobilePhone": "+353858513366",
+        "Email": "email@email.com",
         "AccountId": "0013Y00002ivVqYQAU",
+        "Primary_Affiliation_Role__c": "Developer",
         "Id": "0033Y000031kQOJQA2",
         "Cases": {
           "totalSize": 1,
